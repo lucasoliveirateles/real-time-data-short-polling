@@ -1,7 +1,7 @@
 {
-  "name": "real-time-data",
+  "name": "real-time-data-short-polling",
   "version": "0.0.0",
-  "description": "",
+  "description": "describe example real time data short polling",
   "main": "server.js",
   "type": "module",
   "scripts": {
